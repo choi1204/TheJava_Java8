@@ -1,8 +1,7 @@
-package study.java8;
+package study.java8.FunctionInterface;
 
 import java.util.function.Consumer;
 import java.util.function.IntConsumer;
-import java.util.zip.CheckedOutputStream;
 
 /**
  * 3강 람다표현식

@@ -1,4 +1,4 @@
-package study.java8;
+package study.java8.FunctionInterface;
 
 import java.util.function.*;
 
