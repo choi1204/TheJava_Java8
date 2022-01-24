@@ -1,6 +1,6 @@
 package study.java8;
 
-public class Foo {
+public class _1_Foo {
 
     public static void main(String[] args) {
 
@@ -41,6 +41,7 @@ public class Foo {
          * 함수 밖에 있는 값을 참조하거나 변경하면 안된다.
          * 오로지 함수 내부의 값이나 함수로 넘어오는 파라미터만을 사용해야 한다.
          */
+
     }
 
 }
