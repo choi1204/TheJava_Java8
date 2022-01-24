@@ -12,7 +12,7 @@ public interface RunSomething {
      * Java8부터 default method, static method 선언 가능.
      */
 
-    void doiT();
+    int doiT(int number);
 
     static void printName() {
         System.out.println("Choi");
