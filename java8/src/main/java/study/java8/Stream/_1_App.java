@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 /**
  * 7강 Stream
  */
-public class App {
+public class _1_App {
 
     public static void main(String[] args) {
         List<String> names = new ArrayList<>();
